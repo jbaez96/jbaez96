@@ -52,7 +52,7 @@
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="[https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight](https://www.bible.com/bible/111/JOS.1.9.NIV)" alt="Dev quote" />
+  <img src="[https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight](https://www.bible.com/bible/111/JOS.1.9.NIV)" alt=""Be strong and courageous. Do not be afraid; do not be discouraged, for the LORD your God will be with you wherever you go.”" />
 </p>
 
 ---
