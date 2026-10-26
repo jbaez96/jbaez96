@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on ** A unique Website page**  
+🔭 &nbsp;I'm currently working on **A unique Website page**  
 🌱 &nbsp;I'm currently learning **Python HTML CSS Javascript**  
 👯 &nbsp;I'm looking to collaborate on **Any Web Developer Company's**
 
