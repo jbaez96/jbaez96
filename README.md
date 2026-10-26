@@ -10,7 +10,9 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **A unique Website page**  
+I'm a passionate Full-Stack Web Developer who enjoys building modern, creative, and user-friendly websites. I love learning new technologies, improving my coding skills, and turning ideas into reality. When I'm coding, I always having a good cup of coffee. ☕
+
+🔭 &nbsp;I'm currently working on **Wroking on a unique Website page**  
 🌱 &nbsp;I'm currently learning **Python HTML CSS Javascript**  
 👯 &nbsp;I'm looking to collaborate on **Any Web Developer Company's**
 
@@ -40,7 +42,6 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=jbaez96&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=jbaez96&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
@@ -49,3 +50,5 @@
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=jbaez96&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
+---
+<p align="center"><i>⭐️ From <a href="https://github.com/jbaez96">jbaez96</a></i></p>
